@@ -1,0 +1,80 @@
+LGA_Name,LGA,Region,Expend,Pop,Expend_rate,Pop_rate
+Buloke,C7,Country,0,4642,null,low
+Golden Plains,C32,Country,0,15425,null,low
+Hindmarsh,C8,Country,0,4220,null,low
+Indigo,C35,Country,0,12030,null,low
+Loddon,C46,Country,0,5862,null,low
+Moyne,C36,Country,0,12385,null,low
+Pyrenees,C44,Country,0,5573,null,low
+West Wimmera,C39,Country,0,3026,null,low
+Yarriambiack,C40,Country,0,5309,null,low
+Towong,C34,Country,284733,4556,low,low
+Strathbogie,C42,Country,1294670,8074,low,low
+Queenscliffe,C1,Country,1350945,2521,low,low
+Murrindindi,C41,Country,1381432,11105,low,low
+Mansfield,C49,Country,1437997,6393,low,low
+Gannawarra,C38,Country,1712866,7845,low,low
+Alpine,C2,Country,2232436,9490,low,low
+Hepburn,C26,Country,2602018,12023,low,low
+Corangamite,C3,Country,2672374,11954,low,low
+Surf Coast,C33,Country,2854156,22067,low,low
+Mount Alexander,C47,Country,3116231,14887,low,low
+Northern Grampians,C14,Country,4113493,9157,low,low
+Moria,C17,Country,4244200,22536,low,low
+Ararat,C43,Country,4937200,8737,low,low
+Benalla,C48,Country,5265159,10608,low,low
+South Grampians,C37,Country,5955041,12196,low,low
+Glenelg,C25,Country,6486058,14917,low,low
+South Gippsland,C4,Country,6565792,21678,low,low
+Central Goldfields,C31,Country,7104794,10217,low,low
+Colac-Otway,C18,Country,7490514,15784,low,low
+Swan Hill,C23,Country,7527429,15576,low,low
+Wodonga,C15,Country,7664503,29452,low,low
+Moorabool,C22,Country,8011356,24375,low,low
+Wangaratta,C9,Country,8236834,21049,low,low
+Nillumbik,M16,Metro,8252421,48205,low,medium
+Campaspe,C10,Country,8364721,28430,low,low
+Macedon Ranges,C45,Country,9179544,35033,low,medium
+Horsham,C5,Country,9269920,15299,low,low
+Bayside,M8,Metro,13615021,79489,low,medium
+Baw Baw,C6,Country,14661093,36517,low,medium
+Bass Coast,C29,Country,16321155,26265,low,low
+Mitchell,C13,Country,16394612,29805,low,low
+Warrnambool,C16,Country,18542341,26140,low,low
+Boroondara,M12,Metro,19997261,141148,low,high
+Wellington,C12,Country,21744942,32482,low,low
+Stonnington,M6,Metro,23443277,93307,low,high
+East Gippsland,C28,Country,23639559,35595,low,medium
+Cardinia,M24,Metro,25041008,68960,low,medium
+Mildura,C27,Country,25711760,40516,low,medium
+Port Phillip,M2,Metro,28095943,94569,low,high
+Yarra Ranges,M25,Metro,28793678,116844,low,high
+Greater Shepparton,C24,Country,31422085,47853,medium,medium
+Yarra,M4,Metro,32992353,78970,medium,medium
+Latrobe,C30,Country,43563001,56847,medium,medium
+Hobsons Bay,M3,Metro,46829609,74019,medium,medium
+Greater Bendigo,C19,Country,48696384,84709,medium,high
+Whitehorse,M13,Metro,53182057,134641,medium,high
+Maribyrnong,M5,Metro,53735025,68700,medium,medium
+Ballarat,C20,Country,54611247,78968,medium,medium
+Banyule,M15,Metro,55979947,100830,medium,high
+Manningham,M14,Metro,56271032,97614,medium,high
+Melton,M29,Metro,60035038,99945,medium,high
+Frankston,M22,Metro,62900685,106462,medium,high
+Moreland,M10,Metro,63531111,139247,medium,high
+Maroondah,M17,Metro,65184083,89259,medium,high
+Knox,M18,Metro,73822340,124376,medium,high
+Moonee Valley,M9,Metro,75401078,97328,medium,high
+Glen Eira,M7,Metro,76214352,117223,medium,high
+Melbourne,M1,Metro,79770053,122123,medium,high
+Mornington Peninsula,M31,Metro,82381143,123084,medium,high
+Kingston,M20,Metro,83473106,124218,medium,high
+Darebin,M11,Metro,84324282,124931,medium,high
+Wyndham,M30,Metro,97384532,156745,high,high
+Whittlesea,M26,Metro,103399182,152365,high,high
+Hume,M27,Metro,106043755,147127,high,high
+Monash,M19,Metro,111391124,154009,high,high
+Greater Geelong,C21,Country,111854043,182373,high,high
+Greater Dandenong,M21,Metro,118836649,121943,high,high
+Casey,M23,Metro,124817967,222458,high,high
+Brimbank,M28,Metro,143045744,158069,high,high

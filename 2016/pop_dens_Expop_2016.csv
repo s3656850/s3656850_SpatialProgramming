@@ -1,0 +1,80 @@
+LGA_Name,Expend_rate,Pop_rate
+Buloke,null,low
+Golden Plains,null,low
+Hindmarsh,null,low
+Indigo,null,low
+Loddon,null,low
+Moyne,null,low
+Pyrenees,null,low
+West Wimmera,null,low
+Yarriambiack,null,low
+Towong,low,low
+Strathbogie,low,low
+Queenscliffe,low,low
+Murrindindi,low,low
+Mansfield,low,low
+Gannawarra,low,low
+Alpine,low,low
+Hepburn,low,low
+Corangamite,low,low
+Surf Coast,low,low
+Mount Alexander,low,low
+Northern Grampians,low,low
+Moria,low,low
+Ararat,low,low
+Benalla,low,low
+South Grampians,low,low
+Glenelg,low,low
+South Gippsland,low,low
+Central Goldfields,low,low
+Colac-Otway,low,low
+Swan Hill,low,low
+Wodonga,low,low
+Moorabool,low,low
+Wangaratta,low,low
+Nillumbik,low,medium
+Campaspe,low,low
+Macedon Ranges,low,medium
+Horsham,low,low
+Bayside,low,medium
+Baw Baw,low,medium
+Bass Coast,low,low
+Mitchell,low,low
+Warrnambool,low,low
+Boroondara,low,high
+Wellington,low,low
+Stonnington,low,high
+East Gippsland,low,medium
+Cardinia,low,medium
+Mildura,low,medium
+Port Phillip,low,high
+Yarra Ranges,low,high
+Greater Shepparton,medium,medium
+Yarra,medium,medium
+Latrobe,medium,medium
+Hobsons Bay,medium,medium
+Greater Bendigo,medium,high
+Whitehorse,medium,high
+Maribyrnong,medium,medium
+Ballarat,medium,medium
+Banyule,medium,high
+Manningham,medium,high
+Melton,medium,high
+Frankston,medium,high
+Moreland,medium,high
+Maroondah,medium,high
+Knox,medium,high
+Moonee Valley,medium,high
+Glen Eira,medium,high
+Melbourne,medium,high
+Mornington Peninsula,medium,high
+Kingston,medium,high
+Darebin,medium,high
+Wyndham,high,high
+Whittlesea,high,high
+Hume,high,high
+Monash,high,high
+Greater Geelong,high,high
+Greater Dandenong,high,high
+Casey,high,high
+Brimbank,high,high

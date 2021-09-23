@@ -1,0 +1,80 @@
+LGA_Name,Expend_rate,Pop_rate,Expop
+ALPINE,low,low,Priority 5
+ARARAT,low,low,Priority 5
+BALLARAT,medium,medium,Priority 3
+BANYULE,medium,high,Priority 2
+BASS COAST,low,low,Priority 5
+BAW BAW,low,medium,Priority 4
+BAYSIDE,low,medium,Priority 4
+BENALLA,low,low,Priority 5
+BOROONDARA,low,high,Priority 4
+BRIMBANK,high,high,Priority 1
+BULOKE,null,low,null
+CAMPASPE,low,low,Priority 5
+CARDINIA,low,medium,Priority 4
+CASEY,high,high,Priority 1
+CENTRAL GOLDFIELDS,low,low,Priority 5
+COLAC OTWAY,low,low,Priority 5
+CORANGAMITE,low,low,Priority 5
+DAREBIN,medium,high,Priority 2
+EAST GIPPSLAND,low,medium,Priority 4
+FRANKSTON,medium,high,Priority 2
+GANNAWARRA,low,low,Priority 5
+GLEN EIRA,medium,high,Priority 2
+GLENELG,low,low,Priority 5
+GOLDEN PLAINS,null,low,null
+GREATER BENDIGO,medium,high,Priority 2
+GREATER DANDENONG,high,high,Priority 1
+GREATER GEELONG,high,high,Priority 1
+GREATER SHEPPARTON,medium,medium,Priority 3
+HEPBURN,low,low,Priority 5
+HINDMARSH,null,low,null
+HOBSONS BAY,medium,medium,Priority 3
+HORSHAM,low,low,Priority 5
+HUME,high,high,Priority 1
+INDIGO,null,low,null
+KINGSTON,medium,high,Priority 2
+KNOX,medium,high,Priority 2
+LATROBE,medium,medium,Priority 3
+LODDON,null,low,null
+MACEDON RANGES,low,medium,Priority 4
+MANNINGHAM,medium,high,Priority 2
+MANSFIELD,low,low,Priority 5
+MARIBYRNONG,medium,medium,Priority 3
+MAROONDAH,medium,high,Priority 2
+MELBOURNE,medium,high,Priority 2
+MELTON,medium,high,Priority 2
+MILDURA,low,medium,Priority 4
+MITCHELL,low,low,Priority 5
+MOIRA,low,low,Priority 5
+MONASH,high,high,Priority 1
+MOONEE VALLEY,medium,high,Priority 2
+MOORABOOL,low,low,Priority 5
+MORELAND,medium,high,Priority 2
+MORNINGTON PENINSULA,medium,high,Priority 2
+MOUNT ALEXANDER,low,low,Priority 5
+MOYNE,null,low,null
+MURRINDINDI,low,low,Priority 5
+NILLUMBIK,low,medium,Priority 4
+NORTHERN GRAMPIANS,low,low,Priority 5
+PORT PHILLIP,low,high,Priority 4
+PYRENEES,null,low,null
+QUEENSCLIFFE,low,low,Priority 5
+SOUTH GIPPSLAND,low,low,Priority 5
+SOUTHERN GRAMPIANS,low,low,Priority 5
+STONNINGTON,low,high,Priority 4
+STRATHBOGIE,low,low,Priority 5
+SURF COAST,low,low,Priority 5
+SWAN HILL,low,low,Priority 5
+TOWONG,low,low,Priority 5
+WANGARATTA,low,low,Priority 5
+WARRNAMBOOL,low,low,Priority 5
+WELLINGTON,low,low,Priority 5
+WEST WIMMERA,null,low,null
+WHITEHORSE,medium,high,Priority 2
+WHITTLESEA,high,high,Priority 1
+WODONGA,low,low,Priority 5
+WYNDHAM,high,high,Priority 1
+YARRA,medium,medium,Priority 3
+YARRA RANGES,low,high,Priority 4
+YARRIAMBIACK,null,low,null
